@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Arial';
+  src: url('https://fonts.cdnfonts.com/s/29105/ARIAL.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Verdana';
+  src: url('https://fonts.cdnfonts.com/s/29105/VERDANA.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('https://fonts.cdnfonts.com/s/29105/HELVETICA.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Times New Roman';
+  src: url('https://fonts.cdnfonts.com/s/29105/TIMES.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Courier';
+  src: url('https://fonts.cdnfonts.com/s/29105/COURIER.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('https://fonts.cdnfonts.com/s/29105/GEORGIA.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Palatino';
+  src: url('https://fonts.cdnfonts.com/s/29105/PALATINO.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  src: url('https://fonts.cdnfonts.com/s/29105/GARAMOND.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Bookman';
+  src: url('https://fonts.cdnfonts.com/s/29105/BOOKMAN.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Comic Sans MS';
+  src: url('https://fonts.cdnfonts.com/s/29105/COMIC.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('https://fonts.cdnfonts.com/s/29105/TREBUC.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Arial Black';
+  src: url('https://fonts.cdnfonts.com/s/29105/ARIBLK.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Impact';
+  src: url('https://fonts.cdnfonts.com/s/29105/IMPACT.woff') format('woff');
+}
